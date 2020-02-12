@@ -1,0 +1,14 @@
+D:\wpf\notes00\WPF_TreeView\bin\Debug\WPF_TreeView.exe.config
+D:\wpf\notes00\WPF_TreeView\bin\Debug\WPF_TreeView.exe
+D:\wpf\notes00\WPF_TreeView\bin\Debug\WPF_TreeView.pdb
+D:\wpf\notes00\WPF_TreeView\obj\Debug\MainWindow.g.cs
+D:\wpf\notes00\WPF_TreeView\obj\Debug\App.g.cs
+D:\wpf\notes00\WPF_TreeView\obj\Debug\WPF_TreeView_MarkupCompile.cache
+D:\wpf\notes00\WPF_TreeView\obj\Debug\WPF_TreeView_MarkupCompile.lref
+D:\wpf\notes00\WPF_TreeView\obj\Debug\MainWindow.baml
+D:\wpf\notes00\WPF_TreeView\obj\Debug\WPF_TreeView.g.resources
+D:\wpf\notes00\WPF_TreeView\obj\Debug\WPF_TreeView.Properties.Resources.resources
+D:\wpf\notes00\WPF_TreeView\obj\Debug\WPF_TreeView.csproj.GenerateResource.cache
+D:\wpf\notes00\WPF_TreeView\obj\Debug\WPF_TreeView.csproj.CoreCompileInputs.cache
+D:\wpf\notes00\WPF_TreeView\obj\Debug\WPF_TreeView.exe
+D:\wpf\notes00\WPF_TreeView\obj\Debug\WPF_TreeView.pdb
